@@ -44,8 +44,4 @@ describe 'fizzbuzz test' do
 		expect(fizzbuzz_response?(15)).to eq "FizzBuzz"
 	end
 
-	it "plays the FizzBuzz game from 1 to 100" do
-
-	end
-
 end
