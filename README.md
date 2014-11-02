@@ -9,7 +9,7 @@ Fizzbuzz
 Makers Academy gave us the challenge to create the code for Fizzbuzz and to practise doing this until we could code it from scratch in under 5 minutes.  The code had to use test driven development using Rspec.  This is an example of one attempt.  
 
 Screenshot of Fizzbuzz from terminal IRB:
-![Screenshot](/images/screenshot.png)
+![Screenshot](/images/screenshot1.png)
 
 Technologies used
 -----------------
