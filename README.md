@@ -19,23 +19,23 @@ Technologies used
 
 How to run it
 -------------
-1. Clone the repository:
-..```shell
-..git clone git@github.com:michballard/fizzbuzz.git
-..```
-2. Change into the directory:
+Clone the repository:
+```shell
+git clone git@github.com:michballard/fizzbuzz.git
+```
+Change into the directory:
 ```shell
 cd fizzbuzz1
 ```
-3. Start IRB:
+Start IRB:
 ```shell
 irb
 ```
-4. Within IRB, require the fizzbuzz file:
+Within IRB, require the fizzbuzz file:
 ```shell
 require './lib/fizzbuzz'
 ```
-5. Using the method, fizzbuzz_response?(number), make a request which will then provide a fizzbuzz response:
+Using the method, fizzbuzz_response?(number), make a request which will then provide a fizzbuzz response:
 ```shell
 fizzbuzz_response?(5)
 ```
