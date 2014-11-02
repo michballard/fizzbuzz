@@ -20,9 +20,9 @@ Technologies used
 How to run it
 -------------
 1. Clone the repository:
-```shell
-git clone git@github.com:michballard/fizzbuzz.git
-```
+..```shell
+..git clone git@github.com:michballard/fizzbuzz.git
+..```
 2. Change into the directory:
 ```shell
 cd fizzbuzz1
